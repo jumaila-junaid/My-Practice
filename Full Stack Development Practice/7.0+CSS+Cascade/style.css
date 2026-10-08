@@ -1,0 +1,29 @@
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+#outer-box {
+  background-color: purple;
+}
+
+.inner-box {
+   background-color: red;
+}
+
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+.white-text {
+  color: white;
+}
+
+/*important note -
+inga .box ku maela naan .inner-box kuduthu
+irundhal rule padi red color apply aahi iruka
+maatadhu.*/
