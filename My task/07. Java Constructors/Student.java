@@ -1,4 +1,4 @@
-// Task 01 - Create a Student class with constructors.
+// Create a Student class with constructors.
 
 public class Student {
     // student details
