@@ -1,4 +1,4 @@
-// Task 01 - Main class to create and display three students.
+// Main class to create and display three students.
 
 public class StudentMain {
     public static void main(String[] args) {
